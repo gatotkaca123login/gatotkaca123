@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://koboi89login.github.io/koboi89/sitemap.xml
